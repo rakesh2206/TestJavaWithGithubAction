@@ -11,7 +11,7 @@ public class TestWithGithubAction {
     System.out.println("Hello and welcome!");
 
     System.out.println("Hello and welcome Anju git action");
-    System.out.println("Hello and welcome Rakesh!");
+    System.out.println("Hello and welcome Rakesh And TEst!");
 
     AddTwoInteger test = new AddTwoInteger();
 
