@@ -13,7 +13,9 @@ public class TestWithGithubAction {
     System.out.println("Hello and welcome Anju git action");
     System.out.println("Hello and welcome Rakesh!");
 
-    
+    AddTwoInteger test = new AddTwoInteger();
+
+    System.out.println(test.addAndReturn(10, 20));
 
     for (int i = 1; i <= 5; i++) {
       // TIP Press <shortcut actionId="Debug"/> to start debugging your code. We have
