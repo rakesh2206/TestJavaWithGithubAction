@@ -13,4 +13,8 @@ public class AddTwoInteger {
     return "Hello Again And again";
   }
 
+  public String sayHelloAgainAndAgain() {
+    return "Hello Again And again and agaian";
+  }
+
 }
