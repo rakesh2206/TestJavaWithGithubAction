@@ -9,4 +9,8 @@ public class AddTwoInteger {
     return sum(a ,b);
   }
 
+  public String sayHello() {
+    return "Hello";
+  }
+
 }
